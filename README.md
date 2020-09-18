@@ -30,3 +30,7 @@ Ramsay, D.B., Ananthabhotla, I., and Paradiso, J.A. The Intrinsic Memorability o
 
 To obtain access to the audio source, please complete the [request form](https://docs.google.com/forms/d/e/1FAIpQLSfN5kBzMlnmbpaE59LjJU7yYW1kOdkaTN1KDupneyoUEVQLCw/viewform?usp=sf_link).  You will have access upon completion. The authors of the work can be reached at resenv-audio@mit.edu with further questions.
 
+# Memory Game Data
+
+For the memory game data that accompanies this dataset, please see the [HCU400-Memory-Game-Data repo](https://github.com/mitmedialab/HCU400-Memory-Game-Data).
+
